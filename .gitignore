@@ -1,3 +1,5 @@
 __pycache__/
 _qoa.c
 _qoa.cp311-win_amd64.pyd
+_qoa.pyd
+.vscode/settings.json

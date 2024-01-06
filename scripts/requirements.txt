@@ -1,0 +1,5 @@
+qoa
+soundfile
+colorama
+tqdm
+rich
