@@ -1,4 +1,7 @@
 __pycache__/
+qoa.egg-info/
+build/
+dist/
 _qoa.c
 _qoa.cp311-win_amd64.pyd
 _qoa.pyd
