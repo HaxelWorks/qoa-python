@@ -1,4 +1,5 @@
 # QOA-Python
+
 ## The Quite OK Audio Format for Fast, Lossy Compression
 
 A  Python wrapper around [qoa](https://github.com/phoboslab/qoa) Written using the amazing CFFI library.

@@ -9,6 +9,7 @@ setup(
     packages=["qoa"],
     description="A library for reading and writing QOA files",
     long_description=long_description,
+    long_description_content_type='text/markdown',
     url="https://github.com/HaxelWorks/qoa-python",
     author="Axel Roijers",
     author_email="haxelworks@gmail.com",
