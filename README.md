@@ -2,7 +2,7 @@
 
 ## The Quite OK Audio Format for Fast, Lossy Compression
 
-A  Python wrapper around [qoa](https://github.com/phoboslab/qoa) Written using the amazing CFFI library.
+A  Python wrapper around [qoa](https://github.com/phoboslab/qoa) Written using the CFFI library.
 
 ## Why?
 
@@ -29,9 +29,6 @@ np_array = qoa.read('path/to/file')
 # Write an audio file
 qoa.write(np_array , 'path/to/file')
 
-# Decode an audio file
-buffer,shape = qoa.decode('path/to/file')
-
 # Encode an audio file
-ffi_buffer = qoa.encode(np_array)
+buffer = qoa.encode(np_array)
 ```
